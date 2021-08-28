@@ -1,4 +1,4 @@
-### Olá, eu sou a Jamily 😊
+### Olá, eu sou a Jamily! 😊
 <div>
   <a href="https://github.com/JamilyM">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JamilyM&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>

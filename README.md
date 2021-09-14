@@ -50,7 +50,6 @@
   <p align="center">
   <img src="https://badges.pufler.dev/visits/JamilyM/JamilyM"/> 
   <img src="https://badges.pufler.dev/repos/JamilyM"/>
-  <img src="https://badges.pufler.dev/commits/monthly/JamilyM" />
   </div>  
  
 
